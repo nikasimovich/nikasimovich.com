@@ -1,0 +1,2353 @@
+body{
+font-family: arial, sans-serif;
+font-weight: bold;
+}
+
+
+
+div {
+vertical-align: top;}
+
+#sidewrapper {
+margin: 25px 0 0 50px;
+width: 149px;
+font-size: 20px;
+line-height: 24px;
+display: inline-block;
+*display: inline;
+zoom: 1;
+}
+
+
+#sidewrapper hr {
+width: 149px;
+height: 12px;
+margin: 2px 0 2px 0;
+background: #000;}
+
+.title {
+font-size: 36px;
+margin: 8px 8px 11px 8px;
+}
+
+.title a:link {font-size: 36px; text-decoration: none; color: #000;}
+.title a:visited {font-size: 36px; text-decoration: none; color: #000;}
+.title a:hover {font-size: 36px; text-decoration: none; color: #000; background: #c7c8ca;}
+.title a:active {font-size: 36px; text-decoration: none; color: #000;}
+
+
+
+#navigation a:link {font-size: 20px; text-decoration: none; color: #000;}
+#navigation a:visited {font-size: 20px; text-decoration: none; color: #000;}
+#navigation a:hover {font-size: 20px; text-decoration: none; color: #000; background: #c7c8ca;}
+#navigation a:active {font-size: 20px; text-decoration: none; color: #000;}
+
+.selected {
+text-decoration: underline;
+}
+
+.sublinkselected {
+margin-left: 10px;
+text-decoration: underline;
+}
+
+.sublink {
+margin-left: 7px;
+}
+
+#centerwrapper {
+width: 503px;
+display: inline-block;
+*display: inline;
+zoom: 1;
+position: relative;
+margin: -382px 0 0 250px;
+}
+
+#centerwrapper hr {
+width: 100%;
+height: 12px;
+margin: 7px 0 7px 0;
+background: #000;
+}
+
+
+.centerwrapper {
+width: 503px;
+display: inline-block;
+*display: inline;
+zoom: 1;
+position: relative;
+margin: -382px 0 0 250px;
+}
+
+.centerwrapper hr {
+width: 100%;
+height: 12px;
+margin: 7px 0 7px 0;
+background: #000;
+}
+
+
+
+
+#typedesign {
+margin-bottom: 20px;
+}
+
+#images {
+position: relative;
+top: 100px;
+left: 0px;
+}
+
+#images img {
+border: 9px solid #000;
+margin-bottom: 75px;
+}
+
+
+#images hr {
+width: 100%;
+height: 12px;
+margin: -75px 0 7px 0;
+background: #000;}
+
+
+.keyword {
+display: inline-block;
+text-decoration: underline;
+color: #000;
+}
+
+.keyword a:link {text-decoration: underline; color: #000;}
+.keyword a:visited {text-decoration: underline; color: #000;}
+.keyword a:hover {text-decoration: underline; color: #000; background: #c7c8ca;}
+.keyword a:active {text-decoration: underline; color: #000;}
+
+
+
+
+
+.information {
+font-size: 20px;
+line-height: 22px;}
+
+.unit-wrapper {
+display: inline-block;
+*display: block;
+zoom: 1;
+margin: 0px;
+}
+
+
+
+.letter {
+width: 75px;
+height: 113px;
+position: relative;
+margin: 0px;
+}
+
+
+.black {
+background-color: #000;
+}
+
+.pink {
+background-color: #ff00ff;
+}
+
+
+.av1 {
+position: absolute;
+height: 100%;
+width: 10px;
+left: 0;
+background-color: #000;
+top: 0px;
+}
+
+
+
+.av5 {
+position: absolute;
+height: 100%;
+width: 10px;
+right: 0%;
+}
+
+
+
+.ah1 {
+position: absolute;
+height: 12px;
+width: 75px;
+top: 0%;
+}
+
+
+.ah2 {
+position: absolute;
+width: 58px;
+height: 8px;
+top: 50px;
+}
+
+.ah3 {
+position: absolute;
+width: 61px;
+height: 9px;
+top: 60px;
+}
+
+.bv1 {
+position: absolute;
+width: 10px;
+height: 100%;
+top: 0px;
+left: 0px;
+}
+
+.bv2 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 14px;
+}
+
+.bv3 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 20px;
+}
+
+
+.bv4 {
+position: absolute;
+width: 14px;
+height: 100%;
+top: 0%;
+right: 0px;
+}
+
+.bh1 {
+position: absolute;
+width: 52px;
+height: 13px;
+top: 0%;
+left: 22px;
+}
+
+.bh2 {
+position: absolute;
+width: 100%;
+height: 13px;
+top: 47px;
+left: 0%;
+}
+
+.bh3 {
+position: absolute;
+width: 100%;
+height: 13px;
+bottom: 0%;
+left: 0%;
+}
+
+.cv1 {
+position: absolute;
+height: 100%;
+width: 10px;
+top: 0%;
+left: 0%;
+}
+
+.cv2 {
+position: absolute;
+height: 93px;
+width: 5px;
+top: 14px;
+left: 16px;
+}
+
+.ch1 {
+position: absolute;
+height: 10px;
+width: 100%;
+top: 0px;
+left: 0px;
+}
+
+.ch2 {
+position: absolute;
+height: 5px;
+width: 100%;
+top: 13px;
+left: 0px;
+
+}
+
+.ch3 {
+position: absolute;
+height: 5px;
+width: 100%;
+top: 90px;
+left: 0px;
+}
+
+
+.ch4 {
+position: absolute;
+height: 13px;
+width: 100%;
+bottom: 0px;
+left: 0px;
+}
+
+
+.dv1 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0%;
+left: 0%;
+}
+
+.dv2 {
+position: absolute;
+width: 5px;
+height: 100%;
+left: 6px;
+top: 0px;
+}
+
+.dv3 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 14px;
+}
+
+.dv4 {
+position: absolute;
+height: 100%;
+width: 10px;
+top:0px;
+right: 0px;
+}
+
+
+.dh1 {
+position: absolute;
+top:0%;
+left: 0%;
+width: 100%;
+height: 14px;
+}
+
+.dh2 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 9px;
+}
+
+
+.ev1 {
+position: absolute;
+height: 100%;
+width: 11px;
+left: 0%;
+top: 0%;
+}
+
+
+.ev2 {
+position: absolute;
+height: 100%;
+width: 3px;
+left: 15px;
+top: 0%;
+}
+
+
+.ev3 {
+position: absolute;
+height: 100%;
+width: 3px;
+left: 21px;
+top: 0%;
+}
+
+
+
+.eh1 {
+position: absolute;
+width: 100%;
+height: 14px;
+left: 0px;
+top: 0%;
+}
+
+.eh2 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+top: 16px;
+}
+
+.eh3 {
+position: absolute;
+width: 54px;
+height: 9px;
+left: 21px;
+top: 49px;
+}
+
+
+.eh4 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+top: 61px;
+}
+
+.eh5 {
+position: absolute;
+width: 53px;
+height: 10px;
+left: 22px;
+bottom: 13px;
+}
+
+.eh6 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+bottom: 0%;
+}
+
+.fv1{
+position: absolute;
+height: 100%;
+width: 11px;
+top: 0px;
+left: 0px;
+}
+
+.fv2{
+position: absolute;
+height: 100%;
+width: 3px;
+top: 0px;
+left: 14px;
+}
+
+.fv3{
+position: absolute;
+height: 100%;
+width: 3px;
+top: 0px;
+left: 19px;}
+
+.fh1{
+position: absolute;
+width: 100%;
+height: 14px;
+top: 0px;
+left: 0px;
+}
+
+
+.fh2{
+position: absolute;
+width: 56px;
+height: 10px;
+top: 46px;
+left: 19px;
+}
+
+.fh3{
+position: absolute;
+width: 100%;
+height: 10px;
+top: 58px;
+left: 0px;
+}
+
+.gv1 {
+position: absolute;
+top: 0%;
+left: 0%;
+height: 100%;
+width: 11px;
+}
+
+.gv2 {
+position: absolute;
+height: 93px;
+width: 5px;
+top: 14px;
+left: 16px;
+}
+
+.gv3{
+position: absolute;
+height: 33px;
+width: 13px;
+bottom: 0px;
+right: 0px;
+}
+
+.gh1 {
+position: absolute;
+width: 100%;
+height: 10px;
+top: 0px;
+left: 0px;
+}
+
+.gh2 {
+position: absolute;
+width: 100%;
+height: 5px;
+top: 13px;
+left: 0px;
+}
+
+
+.gh3 {
+position: absolute;
+right: 0px;
+top: 69px;
+height: 5px;
+width: 24px;
+}
+
+
+.gh4 {
+position: absolute;
+right: 0px;
+top: 75px;
+height: 5px;
+width: 24px;
+}
+
+
+
+.gh5 {
+position: absolute;
+right: 0%;
+top: 91px;
+height: 5px;
+width: 100%;
+}
+
+.gh6 {
+position: absolute;
+left: 0px;
+bottom: 0px;
+width: 100%;
+height: 13px;
+}
+
+.hv1 {
+position: absolute;
+left: 0px;
+top: 0px;
+height: 100%;
+width: 11px;
+}
+
+.hv2 {
+position: absolute;
+left: 13px;
+top:  0px;
+height: 100%;
+width: 11px;
+}
+
+.hv3 {
+position: absolute;
+top: 0px;
+right: 13px;
+height: 100%;
+width: 3px;
+}
+
+.hv4 {
+position: absolute;
+top: 0px;
+right: 6px;
+height: 100%;
+width: 3px;
+}
+
+.hv5{
+position: absolute;
+top: 0%;
+right: 0%;
+width: 3px;
+height: 100%;
+}
+
+
+.hh1{
+position: absolute;
+top: 47px;
+left: 21px;
+width: 41px;
+height: 10px;
+}
+
+.iv1{
+position: absolute;
+top: 0px;
+left: 27px;
+height: 100%;
+width: 11px;
+}
+
+.iv2{
+position: absolute;
+top: 0px;
+left: 40px;
+width: 11px;
+height: 100%;
+}
+
+.jv1 {
+position: absolute;
+height: 100%;
+width: 3px;
+right: 21px;
+top: 0px;
+}
+
+.jv2 {
+position: absolute;
+height: 100%;
+width: 3px;
+right: 13px;
+top: 0px;
+}
+
+.jv3 {
+position: absolute;
+top: 0px;
+right: 0px;
+width: 11px;
+height: 100%;
+}
+
+
+.jh1 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 11px;
+}
+
+.kv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 11px;
+height: 100%;
+}
+
+.kv2 {
+position: absolute;
+left: 13px;
+top:  0px;
+height: 100%;
+width: 11px;
+}
+
+.kv3 {
+position: absolute;
+right: 14px;
+top: 0px;
+height: 47px;
+width: 14px;
+}
+.kv4{
+position: absolute;
+right: 0px;
+bottom:  0px;
+height: 64px;
+width: 14px;
+}
+
+.kh1{
+position: absolute;
+top: 46px;
+left: 23px;
+height: 3px;
+width:52px;
+}
+
+.kh2{
+position: absolute;
+top: 50px;
+left: 23px;
+width: 52px;
+height: 3px;
+}
+
+.kh3{
+position: absolute;
+top: 56px;
+left: 23px;
+width: 52px;
+height: 3px;
+}
+
+.lv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+.lv2 {
+position: absolute;
+top: 0px;
+left: 13px;
+height: 100%;
+width: 3px;
+}
+
+.lv3 {
+position: absolute;
+top: 0px;
+left: 21px;
+height: 100%;
+width: 3px;
+}
+
+.lh1 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+height: 13px;
+width: 100%;
+}
+
+.mv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+.mv2 {
+position: absolute;
+top: 0px;
+left: 14px;
+height: 100%;
+width: 3px;
+}
+
+.mv3 {
+position: absolute;
+top: 0px;
+left: 30px;
+height: 100%;
+width: 3px;
+}
+
+.mv4 {
+position: absolute;
+top: 0px;
+left: 35px;
+height: 100%;
+width: 5px;
+}
+
+.mv5 {
+position: absolute;
+top: 0px;
+left: 43px;
+height: 100%;
+width: 3px;
+}
+
+.mv6 {
+position: absolute;
+top: 0px;
+left: 56px;
+height: 100%;
+width: 5px;
+}
+
+.mv7 {
+position: absolute;
+top: 0px;
+right: 0px;
+height: 100%;
+width: 11px;
+}
+
+.mh1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 14px;
+width: 100%;
+}
+
+
+.nv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+.nv2 {
+position: absolute;
+top: 0px;
+left: 13px;
+height: 100%;
+width: 4px;
+}
+
+.nv3 {
+position: absolute;
+top: 0px;
+left: 59px;
+height: 100%;
+width: 3px;
+}
+
+.nv4 {
+position: absolute;
+top: 0px;
+left: 68px;
+height: 100%;
+width: 3px;
+}
+
+.nv5 {
+position: absolute;
+top: 0px;
+right: 0px;
+height: 100%;
+width: 3px;
+}
+
+.nh1 {
+position: absolute;
+top: 0px;
+right: 0px;
+height: 14px;
+width: 100%;
+}
+
+
+.ov1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 11px;
+height: 100%;
+}
+
+.ov2 {
+position: absolute;
+top: 0px;
+left: 13px;
+width: 3px;
+height: 100%;
+}
+
+.ov3 {
+position: absolute;
+top: 0px;
+right: 0px;
+width: 11px;
+height: 100%;
+}
+
+.oh1 {
+position: absolute;
+top: 0px;
+left: 15px;
+width: 60px;
+height: 9px;
+}
+
+.oh2 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 9px;
+
+}
+
+
+.ph1{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+
+.ph2{
+position: absolute;
+top: 59px;
+left: 0px;
+width: 100%;
+height: 10px;
+}
+
+.pv1{
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+.pv2{
+position: absolute;
+top: 0px;
+left: 14px;
+height: 100%;
+width: 3px;
+}
+
+.pv3{
+position: absolute;
+top: 0px;
+left: 20px;
+height: 100%;
+width: 3px;
+}
+
+.pv4 {
+position: absolute;
+top: 0px;
+right: 0px;
+height: 68px;
+width: 14px;
+}
+
+
+.qv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+
+
+.qv2 {
+position: absolute;
+top: 0px;
+left: 13px;
+height: 100%;
+width: 3px;
+}
+
+.qv3 {
+position: absolute;
+bottom: 0px;
+left: 40px;
+height: 24px;
+width: 5px;
+}
+
+.qv4 {
+position: absolute;
+bottom: 0px;
+left: 34px;
+height: 24px;
+width: 5px;
+}
+
+
+.qv5 {
+position: absolute;
+bottom: 0px;
+right: 0px;
+height: 100%;
+width: 11px;
+}
+
+.qh1 {
+position: absolute;
+top: 0px;
+left: 15px;
+height: 9px;
+width: 60px;
+}
+
+.qh2 {
+position: absolute;
+top: 12px;
+left: 0px;
+height: 9px;
+width: 100%;
+}
+
+.qh3 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+height: 9px;
+width: 100%;
+}
+
+
+.rv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+.rv2 {
+position: absolute;
+top: 0px;
+left: 14px;
+height: 100%;
+width: 3px;
+}
+
+.rv3 {
+position: absolute;
+top: 0px;
+left: 21px;
+height: 100%;
+width: 3px;
+}
+
+.rv4{
+position: absolute;
+right: 0px;
+top: 0px;
+height: 68px;
+width: 14px;
+}
+
+.rv5{
+position: absolute;
+right: 7px;
+top: 63px;
+height: 50px;
+width: 14px;
+}
+
+.rh1 {
+position: absolute;
+left: 0px;
+top: 0px;
+width: 100%;
+height: 14px;
+}
+
+.rh2 {
+position: absolute;
+left: 0px;
+top: 58px;
+width: 100%;
+height: 10px;
+}
+
+.sv1 {
+position: absolute;
+left: 0px;
+top: 0px;
+width: 3px;
+height: 56px;
+}
+
+
+.sv2 {
+position: absolute;
+left: 10px;
+top: 0px;
+width: 3px;
+height: 56px;
+}
+
+.sv3 {
+position: absolute;
+left: 19px;
+top: 0px;
+width: 3px;
+height: 56px;
+}
+
+.sv4 {
+position: absolute;
+right: 16px;
+top: 51px;
+width: 3px;
+height: 61px;
+}
+
+.sv5 {
+position: absolute;
+right: 9px;
+top: 51px;
+width: 3px;
+height: 61px;
+}
+
+.sv6 {
+position: absolute;
+right: 0px;
+top: 51px;
+width: 3px;
+height: 61px;
+}
+
+.sh1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+
+.sh2 {
+position: absolute;
+top: 42px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+.sh3 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+
+.tv1 {
+position: absolute;
+top: 0px;
+left: 27px;
+height: 100%;
+width: 5px;
+}
+
+
+.tv2 {
+position: absolute;
+top: 0px;
+left: 38px;
+height: 100%;
+width: 3px;
+}
+
+.tv3 {
+position: absolute;
+top: 0px;
+left: 43px;
+height: 100%;
+width: 3px;
+}
+
+.th1 {
+position: absolute;
+top: 0px;
+width: 100%;
+height: 14px;
+left: 0px;
+}
+
+.uv1 {
+position: absolute;
+left: 0px;
+top: 0px;
+height: 100%;
+width: 3px;
+}
+
+.uv2 {
+position: absolute;
+left: 5px;
+top: 0px;
+height: 100%;
+width: 5px;
+}
+
+.uv3 {
+position: absolute;
+left: 12px;
+top: 0px;
+height: 100%;
+width: 3px;
+}
+
+.uv4 {
+position: absolute;
+right: 0px;
+top: 0px;
+height: 100%;
+width: 11px;
+}
+
+
+.uh1 {
+position: absolute;
+right: 0px;
+bottom: 0px;
+width: 100%;
+height: 14px;
+}
+
+.vv1 {
+position: absolute;
+top: 0px;
+left: 5px;
+height: 100%;
+width: 3px;
+}
+
+.vv2 {
+position: absolute;
+top: 0px;
+left: 10px;
+height: 100%;
+width: 5px;
+}
+
+.vv3 {
+position: absolute;
+top: 0px;
+left: 20px;
+height: 100%;
+width: 3px;
+}
+
+
+.vv4 {
+position: absolute;
+top: 0px;
+right: 5px;
+height: 100%;
+width: 11px;
+}
+
+.vh1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 2px;
+width: 5px;
+}
+
+.vh2 {
+position: absolute;
+bottom: 0px;
+left: 5px;
+height: 13px;
+width: 65px;
+}
+
+
+.vh3 {
+position: absolute;
+top: 0px;
+left: 70px;
+height: 2px;
+width: 5px;
+}
+
+
+.wv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+.wv2 {
+position: absolute;
+top: 0px;
+left: 12px;
+height: 100%;
+width: 3px;
+}
+
+
+.wv3 {
+position: absolute;
+top: 0px;
+left: 29px;
+height: 100%;
+width: 3px;
+}
+
+.wv4 {
+position: absolute;
+top: 0px;
+left: 34px;
+height: 100%;
+width: 5px;
+}
+
+.wv5 {
+position: absolute;
+top: 0px;
+height: 100%;
+width: 3px;
+left: 41px;
+}
+
+
+.wv6 {
+position: absolute;
+top: 0px;
+height: 100%;
+width: 3px;
+left: 59px;
+}
+
+.wv7 {
+position: absolute;
+height: 100%;
+width: 11px;
+right: 0px;
+top: 0px;
+}
+
+.wh1 {
+position: absolute;
+width: 100%;
+height: 14px;
+bottom: 0px;
+left: 0px;
+}
+
+.xv1 {
+position: absolute;
+height: 100%;
+width: 11px;
+top: 0px;
+left: 10px;
+}
+
+.xv2 {
+position: absolute;
+height: 100%;
+width: 3px;
+top: 0px;
+left: 22px;
+}
+
+.xv3 {
+position: absolute;
+height: 100%;
+width: 3px;
+top: 0px;
+left: 28px;
+}
+
+.xv4 {
+position: absolute;
+height: 100%;
+width: 14px;
+top: 0px;
+left: 52px;
+}
+
+
+.xh1 {
+position: absolute;
+height: 2px;
+width: 11px;
+top: 0px;
+left: 0px;
+}
+
+.xh2 {
+position: absolute;
+height: 2px;
+width: 11px;
+bottom: 0px;
+left: 0px;
+}
+
+.xh3 {
+position: absolute;
+height: 2px;
+width: 11px;
+top: 0px;
+right: 0px;
+}
+
+
+.xh4 {
+position: absolute;
+height: 2px;
+width: 11px;
+bottom: 0px;
+right: 0px;
+}
+
+.xh5 {
+position: absolute;
+height: 5px;
+width: 29px;
+top: 45px;
+left: 25px;
+}
+
+.xh6 {
+position: absolute;
+height: 3px;
+width: 33px;
+top: 52px;
+left: 20px;
+}
+
+.xh7 {
+position: absolute;
+height: 3px;
+width: 29px;
+top: 56px;
+left: 24px;
+}
+
+
+.yv1 {
+position: absolute;
+height: 69px;
+width: 11px;
+left: 0px;
+top: 0px;}
+
+.yv2 {
+position: absolute;
+height: 49px;
+width: 3px;
+bottom: 0px;
+left: 31px;
+}
+
+.yv3 {
+position: absolute;
+height: 49px;
+width: 3px;
+bottom: 0px;
+left: 40px;
+}
+.yv4 {
+position: absolute;
+height: 49px;
+width: 3px;
+bottom: 0px;
+left: 45px;
+}
+
+.yv5 {
+position: absolute;
+height: 69px;
+width: 11px;
+top: 0px;
+right: 0px;
+}
+
+.yh1 {
+position: absolute;
+width: 100%;
+height: 10px;
+top: 59px;
+left: 0px;
+}
+
+
+.zv1 {
+position: absolute;
+height: 61px;
+width: 9px;
+bottom: 0px;
+left: 0px;
+}
+
+.zv2 {
+position: absolute;
+height: 58px;
+width: 4px;
+bottom: 0px;
+left: 15px;
+}
+
+
+.zv3 {
+position: absolute;
+height: 61px;
+width: 6px;
+top: 0px;
+left: 52px;
+}
+
+.zv4 {
+position: absolute;
+height: 61px;
+width: 5px;
+top: 0px;
+left: 59px;
+}
+
+.zv5 {
+position: absolute;
+height: 61px;
+width: 9px;
+top: 0px;
+right: 0px;
+}
+
+.zh1 {
+position: absolute;
+height: 11px;
+width: 100%;
+top: 0px;
+left: 0px;
+}
+
+.zh2 {
+position: absolute;
+height: 9px;
+width: 100%;
+top: 52px;
+left: 0px;
+}
+
+.zh3 {
+position: absolute;
+height: 4px;
+width: 100%;
+top: 95px;
+left: 0px;
+}
+
+.zh4 {
+position: absolute;
+height: 4px;
+width: 100%;
+top: 102px;
+left: 0px;
+}
+
+.zh5 {
+position: absolute;
+height: 4px;
+width: 100%;
+bottom: 0px;
+left: 0px;
+}
+
+
+.zerov1{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 11px;
+height: 100%;
+}
+
+.zerov2{
+position: absolute;
+top: 0px;
+left: 13px;
+width: 3px;
+height: 100%;
+}
+
+.zerov3{
+position: absolute;
+top: 0px;
+right: 0px;
+width: 11px;
+height: 100%;
+}
+
+.zeroh1{
+position: absolute;
+top: 0px;
+left: 15px;
+width: 60px;
+height: 9px;
+}
+
+.zeroh2{
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 9px;
+}
+
+.zeroh3{
+position: absolute;
+top: 56px;
+left: 27px;
+width: 24px;
+height: 5px;
+}
+
+
+.zeroh4 {
+position: absolute;
+top: 62px;
+left: 27px;
+width: 24px;
+height: 5px;
+}
+
+
+.onev1 {
+position: absolute;
+top: 0px;
+left: 26px;
+height: 100%;
+width: 10px;
+}
+
+.onev2 {
+position: absolute;
+top: 0px;
+left: 38px;
+height: 100%;
+width: 3px;
+}
+
+.onev3 {
+position: absolute;
+top: 0px;
+left: 42px;
+height: 100%;
+width: 10px;
+}
+
+.twov1 {
+position: absolute;
+bottom: 0px;
+height: 60px;
+width: 3px;
+left: 0px;
+}
+
+
+.twov2 {
+position: absolute;
+bottom: 0px;
+height: 60px;
+width: 5px;
+left: 6px;
+}
+
+.twov3 {
+position: absolute;
+bottom: 0px;
+height: 60px;
+width: 3px;
+left: 13px;
+}
+
+
+.twov4 {
+position: absolute;
+top: 0px;
+height: 56px;
+width: 3px;
+left: 53px;
+}
+
+.twov5 {
+position: absolute;
+top: 0px;
+height: 56px;
+width: 3px;
+left: 61px;
+}
+
+.twov6 {
+position: absolute;
+top: 0px;
+height: 56px;
+width: 3px;
+right: 0px;
+}
+
+.twoh1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+.twoh2 {
+position: absolute;
+top: 43px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+
+
+.twoh3 {
+position: absolute;
+width: 100%;
+bottom: 0px;
+height: 14px;
+left: 0px;
+}
+
+
+.threev1 {
+position: absolute;
+height: 100%;
+width: 3px;
+top: 0px;
+left: 52px;
+}
+
+.threev2 {
+position: absolute;
+height: 100%;
+width: 3px;
+top: 0px;
+left: 58px;
+}
+
+.threev3 {
+position: absolute;
+height: 100%;
+top: 0px;
+right: 0px;
+width: 11px;}
+
+
+.threeh1 {
+position: absolute;
+top: 0px;
+width: 100%;
+height: 14px;
+right: 0px;
+}
+
+.threeh2 {
+position: absolute;
+top: 17px;
+width: 100%;
+height: 3px;
+left: 0px;
+}
+
+
+.threeh3 {
+position: absolute;
+top: 46px;
+width: 53px;
+height: 10px;
+left: 0px;
+}
+
+.threeh4 {
+position: absolute;
+top: 58px;
+width: 53px;
+height: 5px;
+left: 0px;
+}
+
+
+.threeh5 {
+position: absolute;
+top: 91px;
+height: 3px;
+width: 60px;
+left: 0px;
+}
+
+.threeh6{
+position: absolute;
+left: 0px;
+height: 3px;
+width: 100%;
+top: 97px;
+}
+
+.threeh7 {
+position: absolute;
+left: 0px;
+width: 100%;
+height: 10px;
+bottom: 0px;
+}
+
+.fourv1 {
+position: absolute;
+left: 0px;
+height: 58px;
+top: 0px;
+width: 11px;}
+
+.fourv2 {
+position: absolute;
+left: 59px;
+height: 49px;
+bottom: 0px;
+width:  3px;}
+
+
+.fourv3 {
+position: absolute;
+left: 64px;
+width: 5px;
+height: 59px;
+bottom: 0px;
+}
+
+
+.fourv4 {
+position: absolute;
+right: 0px;
+width: 3px;
+bottom: 0px;
+height: 46px;
+}
+
+.fourv5 {
+position: absolute;
+right: 0px;
+width: 11px;
+height: 60px;
+top: 0px;
+}
+
+.fourh1 {
+position: absolute;
+width: 100%;
+left: 0px;
+top: 58px;
+height: 10px;
+}
+
+
+.fivev1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 3px;
+height: 56px;
+}
+
+.fivev2 {
+position: absolute;
+top: 0px;
+left: 7px;
+width: 5px;
+height: 44px;
+}
+
+.fivev3 {
+position: absolute;
+top: 0px;
+left: 13px;
+width: 3px;
+height: 49px;
+}
+
+.fivev4 {
+position: absolute;
+top: 53px;
+left: 57px;
+width: 5px;
+height: 47px;
+}
+
+
+.fivev5 {
+position: absolute;
+top: 53px;
+height: 47px;
+width: 3px;
+left: 65px;
+}
+
+.fivev6 {
+position: absolute;
+top: 53px;
+right: 0px;
+width: 3px;
+height: 47px;
+}
+
+.fiveh1 {
+position: absolute;
+left: 0px;
+width:100%;
+top: 0px;
+height: 14px;}
+
+.fiveh2 {
+position: absolute;
+left: 0px;
+width:100%;
+top: 42px;
+height: 14px;}
+
+.fiveh3 {
+position: absolute;
+left: 0px;
+width:100%;
+bottom: 0px;
+height: 14px;}
+
+.sixv1 {
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 11px;
+}
+
+
+.sixv2 {
+position: absolute;
+top: 0px;
+left: 13px;
+width: 3px;
+height: 100%;
+}
+
+
+.sixv3 {
+position: absolute;
+top: 0px;
+left: 19px;
+width: 3px;
+height: 100%;
+}
+
+
+.sixv4 {
+position: absolute;
+bottom: 0px;
+right: 0px;
+width: 14px;
+height: 68px;
+}
+
+.sixh1 {
+position: absolute;
+left: 0px;
+top: 44px;
+height: 10px;
+width: 100%;
+}
+
+
+.sixh2 {
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+height: 14px;
+}
+
+.sevenv1 {
+position: absolute;
+height: 100%;
+width: 3px;
+left: 52px;
+top: 0px;
+}
+
+.sevenv2 {
+position: absolute;
+height: 100%;
+width: 3px;
+left: 58px;
+top: 0px;
+}
+
+.sevenv3 {
+position: absolute;
+height: 100%;
+width: 11px;
+right: 0px;
+top: 0px;
+}
+
+.sevenh1 {
+position: absolute;
+width: 100%;
+height: 14px;
+left: 0px;
+top: 0px;
+}
+
+
+.eightv1 {
+position: absolute;
+width: 10px;
+height: 100%;
+top: 0px;
+left: 0px;
+}
+
+.eightv2 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 14px;
+}
+
+.eightv3 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 20px;
+}
+
+
+.eightv4 {
+position: absolute;
+width: 14px;
+height: 100%;
+top: 0%;
+right: 0px;
+}
+
+.eighth1 {
+position: absolute;
+width: 100%;
+height: 13px;
+top: 0%;
+left: 0px;
+}
+
+.eighth2 {
+position: absolute;
+width: 100%;
+height: 13px;
+top: 47px;
+left: 0%;
+}
+
+.eighth3 {
+position: absolute;
+width: 100%;
+height: 13px;
+bottom: 0%;
+left: 0%;
+}
+
+
+.ninev1 {
+position: absolute;
+width: 14px;
+height: 68px;
+top: 0px;
+left: 0px;
+}
+
+.ninev2 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 52px;
+}
+
+
+.ninev3 {
+position: absolute;
+width: 3px;
+height: 100%;
+top: 0px;
+left: 59px;
+}
+
+.ninev4 {
+position: absolute;
+width: 11px;
+height: 100%;
+top: 0px;
+right: 0px;
+}
+
+.nineh1 {
+position: absolute;
+width: 100%;
+height: 14px;
+top: 0px;
+left: 0px;
+}
+
+.nineh2 {
+position: absolute;
+width: 100%;
+height: 10px;
+top: 59px;
+right: 0px;
+}
+
+.minush1 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+top: 43px;
+}
+
+.minush2 {
+position: absolute;
+width: 100%;
+height: 3px;
+left: 0px;
+top: 55px;
+}
+
+
+.minush3 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+top: 60px;
+}
+
+.plusv1 {
+position: absolute;
+height: 100%;
+top: 0px;
+width: 11px;
+left: 26px;
+}
+
+.plusv2 {
+position: absolute;
+height: 100%;
+top: 0px;
+width: 11px;
+left: 39px;
+}
+
+
+.plush1 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+top: 43px;
+}
+
+.plush2 {
+position: absolute;
+width: 100%;
+height: 3px;
+left: 0px;
+top: 55px;
+}
+
+
+.plush3 {
+position: absolute;
+width: 100%;
+height: 10px;
+left: 0px;
+top: 60px;
+}
+
+.moneyv1 {
+position: absolute;
+height: 49px;
+width: 3px;
+left: 0px;
+top: 7px;
+}
+
+.moneyv2 {
+position: absolute;
+height: 49px;
+width: 3px;
+left: 10px;
+top: 7px;
+}
+
+
+.moneyv3 {
+position: absolute;
+height: 49px;
+width: 3px;
+left: 19px;
+top: 7px;
+}
+
+
+.moneyv4 {
+position: absolute;
+height: 9px;
+width: 5px;
+left: 32px;
+top: 0px;
+}
+
+.moneyv5 {
+position: absolute;
+height: 9px;
+width: 5px;
+left: 38px;
+top: 0px;
+}
+
+.moneyv6 {
+position: absolute;
+height: 12px;
+width: 5px;
+left: 32px;
+bottom: 0px;
+}
+
+.moneyv7 {
+position: absolute;
+height: 12px;
+width: 5px;
+left: 38px;
+bottom: 0px;
+}
+
+.moneyv8 {
+position: absolute;
+height: 44px;
+width: 3px;
+left: 59px;
+top: 50px;
+}
+
+.moneyv9 {
+position: absolute;
+height: 44px;
+width: 3px;
+left: 67px;
+top: 50px;
+}
+
+.moneyv10 {
+position: absolute;
+height: 44px;
+width: 3px;
+right: 0px;
+top: 50px;
+}
+
+.moneyh1 {
+position: absolute;
+top: 7px;
+width: 100%;
+height: 13px;
+left: 0px;
+}
+
+.moneyh2 {
+position: absolute;
+top: 43px;
+width: 100%;
+height: 13px;
+left: 0px;
+}
+
+.moneyh3 {
+position: absolute;
+top: 90px;
+width: 100%;
+height: 13px;
+left: 0px;
+}
+
+
+
+.exv1 {
+position: absolute;
+top: 0px;
+width: 11px;
+height: 80px;
+left: 32px;
+}
+
+.exv2 {
+position: absolute;
+bottom: 0px;
+width: 5px;
+height: 24px;
+left: 32px;
+}
+
+.exv3 {
+position: absolute;
+bottom: 0px;
+width: 5px;
+height: 24px;
+left: 38px;
+}
+
+
+
+
+#footer {
+width: 503px;
+display: inline-block;
+margin: -75px;
+}
+
+.puppy {
+text-align: center;
+}
+
+.puppy1 {
+float: left;
+
+}
+
+
+
+
+
+.puppy2 {
+float: right;
+}
+
+
+.puppy a:link {text-decoration: underline; color: #000;}
+.puppy a:visited {text-decoration: underline; color: #000;}
+.puppy a:hover {text-decoration: underline; color: #000; background: #c7c8ca;}
+.puppy a:active {text-decoration: underline; color: #000;}

@@ -1,0 +1,8 @@
+
+@font-face {
+	font-family: 'FranklinGothic-Book';
+	src: url('FranklinGothic-Book.eot?') format('eot'), 
+	     url('FranklinGothic-Book.woff') format('woff'), 
+	     url('FranklinGothic-Book.ttf')  format('truetype'),
+	     url('FranklinGothic-Book.svg#FranklinGothic-Book') format('svg');
+}

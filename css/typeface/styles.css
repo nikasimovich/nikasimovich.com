@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'SouvenirStd-Light';
+	src: url('SouvenirStd-Light.eot?') format('eot'), 
+	     url('SouvenirStd-Light.otf')  format('opentype'),
+	     url('SouvenirStd-Light.woff') format('woff'), 
+	     url('SouvenirStd-Light.ttf')  format('truetype'),
+	     url('SouvenirStd-Light.svg#SouvenirStd-Light') format('svg');
+}

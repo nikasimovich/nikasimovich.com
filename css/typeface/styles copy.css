@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'SouvenirStd-Medium';
+	src: url('SouvenirStd-Medium.eot?') format('eot'), 
+	     url('SouvenirStd-Medium.otf')  format('opentype'),
+	     url('SouvenirStd-Medium.woff') format('woff'), 
+	     url('SouvenirStd-Medium.ttf')  format('truetype'),
+	     url('SouvenirStd-Medium.svg#SouvenirStd-Medium') format('svg');
+}
